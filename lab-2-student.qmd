@@ -50,8 +50,8 @@ that resource**.
 
 - If you used ChatGPT, you are expected to "inform" me of the assistance you
 received by (1) indicating somewhere in the problem that you used ChatGPT 
-(e.g., below the question prompt or as a code comment), and (2) downloading and
-attaching the `.txt` file containing your **entire** conversation with ChatGPT.
+(e.g., below the question prompt or as a code comment), and (2) paste the
+link to your chat (using the Share button from ChatGPT).
 
 Additionally, you are permitted and encouraged to work with your peers as you
 complete lab assignments, but **you are expected to do your own work**. Copying
